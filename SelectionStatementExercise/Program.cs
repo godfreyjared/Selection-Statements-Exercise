@@ -41,7 +41,7 @@
                 }
                 else
                 {
-                    Console.WriteLine($"You guessed it! The favorite number was {favNumber}! You must be some kind of wizard! Your final score is {score}.");
+                    Console.WriteLine($"You guessed it! The correct number was {favNumber}! You must be some kind of wizard! Your final score is {score}.");
                     correct = true;
                     break;
                 }
